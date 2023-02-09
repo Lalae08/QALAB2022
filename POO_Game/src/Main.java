@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
+        // Proyecto editado por: LADY MARY LAHUA ECHAJAYA
 
         Toyota toyo = new Toyota("PAS201"); //200
         toyo.encenderMotor();
